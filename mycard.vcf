@@ -1,7 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
+N:Raghoji;Mayur;;;
 FN:Mayur Raghoji
 ORG:TM Auto Seating
-TEL;TYPE=CELL:+919022668397
-EMAIL;TYPE=WORK:mayur.raghoji@tmseating.com
+TEL;TYPE=CELL,VOICE:+919022668397
+EMAIL;TYPE=INTERNET,WORK:mayur.raghoji@tmseating.com
 END:VCARD
